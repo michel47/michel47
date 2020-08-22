@@ -21,3 +21,12 @@ do you want to reboot humanity w/ me ?
 Here are some ideas to get you started:
 
 -->
+
+
+[1]: https://github.com/search?q=fairtools&type=Repositories
+[2]: https://gitlab.com/holoverse4
+[3]: https://healthium.gq
+[4]: https://github.com/search?q=willforge&type=Users
+[5]: https://github.com/search?q=kotlin-blockchain
+[6]: https://github.com/search?q=irp_ipfs
+[7]: https://github.com/search?q=user:michel47+blockchain
