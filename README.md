@@ -15,7 +15,7 @@ do you want to reboot humanity w/ me ?
 - ⚡ Fun fact: I am a caveManGeek/Hacker, and a loving Dad of [two]
 - ⬡  I am taking the mission to use technology in a restaurative way to bring back health on earth.
 
-<br><br>[contact me](mailto:michelc@drit.ml)
+<br><br>[contact me](mailto:michelc@drit.ml) to join me in this mission 🙏
 
 
 <!--
