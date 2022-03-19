@@ -13,12 +13,14 @@ do you want to reboot humanity w/ me ?
 - 📫 How to reach me: [+41 7676 0 0400](callto:+41767609400)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I am a caveManGeek/Hacker, and a loving Dad of [two]
+- ⬡  I am taking the mission to use technology in a restaurative way to bring back health on earth.
 
-<br><br>[contact me](mailto:michelc@gc-bank.org)
+<br><br>[contact me](mailto:michelc@drit.ml)
 
 
 <!--
-**michel47/michel47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**michel47/michel47** is a ✨ _special_ ✨ repository because its `README.md` (this file)
+appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
