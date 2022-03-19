@@ -17,6 +17,8 @@ do you want to reboot humanity w/ me ?
 
 <br><br>[contact me](mailto:michelc@drit.ml) to join me in this mission 🙏
 
+~[Michel](https://google.com/search?q=Michel+G.+Combes) [ORCID: [0000-0001-7395-3353][orcid]]
+
 
 <!--
 **michel47/michel47** is a ✨ _special_ ✨ repository because its `README.md` (this file)
@@ -38,3 +40,4 @@ Here are some ideas to get you started:
 [br]: https://duckduckgo.com/?q=blockring+Mychelium+!g
 [two]: https://duckduckgo.com/?q=%22Séraphina+and+Sébastien%22+!g
 [NFTs]: https://opensea.io/doc-it
+[orcid]: https://orcid.org/0000-0001-7395-3353
